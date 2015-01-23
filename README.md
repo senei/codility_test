@@ -3,7 +3,7 @@ Codility_test
 https://codility.com/programmers/lessons/ in javascript
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **17 / 19** problems before 2015/01/23.
+I have solved **17 / 24** problems before 2015/01/23.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/senei/codility_test/blob/master/Lesson%201%20-%20Time%20Complexity/TapeEquilibrium.htm)
@@ -42,5 +42,11 @@ I have solved **17 / 19** problems before 2015/01/23.
 - [x] [MaxProfit](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxProfit.htm)
 - [x] [MaxSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxSliceSum.htm)
 - [ ] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/)
+
+##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
+- [x] [MinPerimeterRectangle](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/MaxProfit.htm)
+- [x] [CountFactors](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/MaxSliceSum.htm)
+- [ ] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/)
+- [ ] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/)
 
 ##[Challenges](https://codility.com/programmers/challenges/)
