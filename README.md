@@ -44,9 +44,9 @@ I have solved **17 / 24** problems before 2015/01/23.
 - [ ] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
-- [x] [MinPerimeterRectangle](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/MaxProfit.htm)
-- [x] [CountFactors](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/MaxSliceSum.htm)
-- [ ] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Maximum%20slice%20problem/)
-- [ ] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/)
+- [x] [MinPerimeterRectangle](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/MinPerimeterRectangle.htm)
+- [x] [CountFactors](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/CountFactors.htm)
+- [ ] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
+- [ ] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
 
 ##[Challenges](https://codility.com/programmers/challenges/)
