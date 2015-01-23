@@ -49,4 +49,42 @@ I have solved **17 / 24** problems before 2015/01/23.
 - [ ] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
 - [ ] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
 
+
+##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
+- [x] [CountSemiprimes](https://github.com/senei/codility_test/blob/master/Lesson%209%20-%20Sieve%20of%20Eratosthenes/CountSemiprimes.htm)
+- [ ] [CountNonDivisible](https://github.com/senei/codility_test/blob/master/Lesson%209%20-%20Sieve%20of%20Eratosthenes/)
+
+##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
+- [x] [ChocolatesByNumbers](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/ChocolatesByNumbers.htm)
+- [ ] [CommonPrimeDivisors](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/)
+
+##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
+- [ ] [Ladder]()
+- [ ] [FibFrog]()
+
+##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
+- [ ] [MinMaxDivision]()
+- [ ] [NailingPlanks]()
+
+##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
+- [ ] [AbsDistinct]()
+- [ ] [CountTriangles]()
+- [ ] [CountDistinctSlices]()
+- [ ] [MinAbsSumOfTwo]()
+
+##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
+- [ ] [TieRopes]()
+- [ ] [MaxNonoverlappingSegments]()
+
+##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
+- [ ] [NumberSolitaire]()
+- [ ] [MinAbsSum]
+
+##Lesson 99 [Future training](https://codility.com/programmers/lessons/14)
+- [ ] [TreeHeight]()
+- [ ] [StrSymmetryPoint]()
+- [ ] [OddOccurrencesInArray]()
+- [ ] [BinaryGap]()
+- [ ] [ArrayInversionCount]()
+
 ##[Challenges](https://codility.com/programmers/challenges/)
