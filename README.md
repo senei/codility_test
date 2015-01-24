@@ -3,7 +3,7 @@ Codility_test
 https://codility.com/programmers/lessons/ in javascript
 
 My answers to [Codility](https://codility.com/programmers/lessons/)
-I have solved **17 / 24** problems before 2015/01/23.
+I have solved **21 / 49** problems before 2015/01/23.
 
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/senei/codility_test/blob/master/Lesson%201%20-%20Time%20Complexity/TapeEquilibrium.htm)
@@ -67,8 +67,8 @@ I have solved **17 / 24** problems before 2015/01/23.
 - [ ] [NailingPlanks]()
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
-- [ ] [AbsDistinct]()
-- [ ] [CountTriangles]()
+- [x] [AbsDistinct]()
+- [x] [CountTriangles]()
 - [ ] [CountDistinctSlices]()
 - [ ] [MinAbsSumOfTwo]()
 
@@ -88,3 +88,4 @@ I have solved **17 / 24** problems before 2015/01/23.
 - [ ] [ArrayInversionCount]()
 
 ##[Challenges](https://codility.com/programmers/challenges/)
+
