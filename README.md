@@ -73,8 +73,8 @@ I have solved **21 / 49** problems before 2015/01/23.
 - [ ] [MinAbsSumOfTwo]()
 
 ##Lesson 14 [Greedy algorithms](https://codility.com/programmers/lessons/15)
-- [ ] [TieRopes]()
-- [ ] [MaxNonoverlappingSegments]()
+- [x] [TieRopes]()
+- [x] [MaxNonoverlappingSegments]()
 
 ##Lesson 15 [Dynamic programming](https://codility.com/programmers/lessons/16)
 - [ ] [NumberSolitaire]()
