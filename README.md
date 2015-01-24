@@ -6,6 +6,8 @@ My answers to [Codility](https://codility.com/programmers/lessons/)
 
 levels peinless - 5 of 99 level remeins
 
+score 25 / 49 rest to come
+
 ##Lesson 1 [Time Complexity](https://codility.com/programmers/lessons/1)
 - [x] [TapeEquilibrium](https://github.com/senei/codility_test/blob/master/Lesson%201%20-%20Time%20Complexity/TapeEquilibrium.htm)
 - [x] [FrogJmp](https://github.com/senei/codility_test/blob/master/Lesson%201%20-%20Time%20Complexity/FrogJmp.htm)
