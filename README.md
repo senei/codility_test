@@ -16,8 +16,8 @@ score 25 / 49 rest to come
 ##Lesson 2 [Counting Elements](https://codility.com/programmers/lessons/2)
 - [x] [PermCheck](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/PermCheck.htm)
 - [x] [FrogRiverOne](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/FrogRiverOne.htm)
-- [ ] [MissingInteger](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/)
-- [ ] [MaxCounters](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/)
+- [x] [MissingInteger](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/MissingInteger.htm)
+- [x] [MaxCounters](https://github.com/senei/codility_test/blob/master/Lesson%202%20-%20Counting%20Elements/MaxCounters.htm)
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [PassingCars](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/PassingCars.htm)
