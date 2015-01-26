@@ -21,15 +21,15 @@ score 25 / 49 rest to come
 
 ##Lesson 3 [Prefix Sums](https://codility.com/programmers/lessons/3)
 - [x] [PassingCars](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/PassingCars.htm)
-- [ ] [MinAvgTwoSlice](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/)
-- [ ] [CountDiv](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/)
-- [ ] [GenomicRangeQuery](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/)
+- [x] [MinAvgTwoSlice](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/MinAvgTwoSlice.htm)
+- [x] [CountDiv](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/CountDiv.htm)
+- [x] [GenomicRangeQuery](https://github.com/senei/codility_test/blob/master/Lesson%203%20-%20Prefix%20Sums/GenomicRangeQuery.htm)
 
 ##Lesson 4 [Prefix Sums](https://codility.com/programmers/lessons/4)
 - [x] [MaxProductOfThree](https://github.com/senei/codility_test/blob/master/Lesson%204%20-%20Sorting/MaxProductOfThree.htm)
 - [x] [Triangle](https://github.com/senei/codility_test/blob/master/Lesson%204%20-%20Sorting/Triangle.htm)
 - [x] [Distinct](https://github.com/senei/codility_test/blob/master/Lesson%204%20-%20Sorting/Distinct.htm)
-- [ ] [NumberOfDiscIntersections](https://github.com/senei/codility_test/blob/master/Lesson%204%20-%20Sorting/)
+- [x] [NumberOfDiscIntersections](https://github.com/senei/codility_test/blob/master/Lesson%204%20-%20Sorting/NumberOfDiscIntersections.htm)
 
 ##Lesson 5 [Stacks and Queues](https://codility.com/programmers/lessons/5)
 - [x] [Brackets](https://github.com/senei/codility_test/blob/master/Lesson%205%20-%20Stacks%20and%20Queues/Brackets.htm)
