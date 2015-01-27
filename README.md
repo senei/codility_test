@@ -44,22 +44,22 @@ score 25 / 49 rest to come
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
 - [x] [MaxProfit](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxProfit.htm)
 - [x] [MaxSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxSliceSum.htm)
-- [ ] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxDoubleSliceSum.htm)
+- [x] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxDoubleSliceSum.htm)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - [x] [MinPerimeterRectangle](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/MinPerimeterRectangle.htm)
 - [x] [CountFactors](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/CountFactors.htm)
-- [ ] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
-- [ ] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers//)
+- [x] [Peaks](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/Peaks.htm)
+- [x] [Flags](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/Flags.htm)
 
 
 ##Lesson 9 [Sieve of Eratosthenes](https://codility.com/programmers/lessons/9)
 - [x] [CountSemiprimes](https://github.com/senei/codility_test/blob/master/Lesson%209%20-%20Sieve%20of%20Eratosthenes/CountSemiprimes.htm)
-- [ ] [CountNonDivisible](https://github.com/senei/codility_test/blob/master/Lesson%209%20-%20Sieve%20of%20Eratosthenes/)
+- [x] [CountNonDivisible](https://github.com/senei/codility_test/blob/master/Lesson%209%20-%20Sieve%20of%20Eratosthenes/CountNonDivisible.htm)
 
 ##Lesson 10 [Euclidean algorithm](https://codility.com/programmers/lessons/10)
 - [x] [ChocolatesByNumbers](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/ChocolatesByNumbers.htm)
-- [ ] [CommonPrimeDivisors](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/)
+- [x] [CommonPrimeDivisors](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/CommonPrimeDivisors.htm)
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
 - [ ] [Ladder]()
