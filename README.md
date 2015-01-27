@@ -66,8 +66,8 @@ score 25 / 49 rest to come
 - [x] [FibFrog](https://github.com/senei/codility_test/blob/master/Lesson%2011%20-%20Fibonacci%20numbers/FibFrog.htm)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
-- [ ] [MinMaxDivision]()
-- [ ] [NailingPlanks]()
+- [x] [MinMaxDivision](https://github.com/senei/codility_test/blob/master/Lesson%2012%20-%20Binary%20search%20algorithm/MinMaxDivision.htm)
+- [x] [NailingPlanks](https://github.com/senei/codility_test/blob/master/Lesson%2012%20-%20Binary%20search%20algorithm/NailingPlanks.htm) 87% ech
 
 ##Lesson 13 [Caterpillar method](https://codility.com/programmers/lessons/13)
 - [x] [AbsDistinct](https://github.com/senei/codility_test/blob/master/Lesson%2013%20-%20Caterpillar%20method/AbsDistinct.htm)

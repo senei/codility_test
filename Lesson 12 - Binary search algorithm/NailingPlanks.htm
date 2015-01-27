@@ -10,7 +10,7 @@
 
 <script type="text/javascript">
 function solution(A) {
-    
+
 }
 </script>
 
@@ -20,7 +20,46 @@ function solution(A) {
     <br/>
     <a href="https://codility.com/programmers/lessons/12">codility.com/programmers/lessons/12</a>
     <br/>
-    
+    <p>You are given two non-empty zero-indexed arrays A and B consisting of N integers. These arrays represent N planks. More precisely, A[K] is the start and B[K] the end of the K−th plank.</p>
+    <p>Next, you are given a non-empty zero-indexed array C consisting of M integers. This array represents M nails. More precisely, C[I] is the position where you can hammer in the I−th nail.</p>
+    <p>We say that a plank (A[K], B[K]) is nailed if there exists a nail C[I] such that A[K] ≤ C[I] ≤ B[K].</p>
+    <p>The goal is to find the minimum number of nails that must be used until all the planks are nailed. In other words, you should find a value J such that all planks will be nailed after using only the first J nails. More precisely, for every plank (A[K], B[K]) such that 0 ≤ K &lp; N, there should exist a nail C[I] such that I &lp; J and A[K] ≤ C[I] ≤ B[K].</p>
+    <p>For example, given arrays A, B such that:</p>
+    <code>
+        A[0] = 1 B[0] = 4
+        <br/>A[1] = 4 B[1] = 5
+        <br/>A[2] = 5 B[2] = 9
+        <br/>A[3] = 8 B[3] = 10
+    </code>
+    <p>four planks are represented: [1, 4], [4, 5], [5, 9] and [8, 10].</p>
+    <p>Given array C such that:</p>
+    <code>C[0] = 4
+        <br/>C[1] = 6
+        <br/>C[2] = 7
+        <br/>C[3] = 10
+        <br/>C[4] = 2</code>
+    <p>if we use the following nails:</p>
+    <code>0, then planks [1, 4] and [4, 5] will both be nailed.
+        <br/>0, 1, then planks [1, 4], [4, 5] and [5, 9] will be nailed.
+        <br/>0, 1, 2, then planks [1, 4], [4, 5] and [5, 9] will be nailed.
+        <br/>0, 1, 2, 3, then all the planks will be nailed.</code>
+    <p>Thus, four is the minimum number of nails that, used sequentially, allow all the planks to be nailed.</p>
+    <p>Write a function:</p>
+    <code>function solution(A, B, C);</code>
+    <p>that, given two non-empty zero-indexed arrays A and B consisting of N integers and a non-empty zero-indexed array C consisting of M integers, returns the minimum number of nails that, used sequentially, allow all the planks to be nailed.</p>
+    <p>If it is not possible to nail all the planks, the function should return −1.</p>
+    <p>For example, given arrays A, B, C such that:</p>
+    <code>A[0] = 1 B[0] = 4
+        <br/>A[1] = 4 B[1] = 5
+        <br/>A[2] = 5 B[2] = 9
+        <br/>A[3] = 8 B[3] = 10
+        <br/>
+        <br/>C[0] = 4
+        <br/>C[1] = 6
+        <br/>C[2] = 7
+        <br/>C[3] = 10
+        <br/>C[4] = 2</code>
+    <p>the function should return 4, as explained above.</p>
 
 
 </body>
