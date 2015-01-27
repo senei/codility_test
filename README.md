@@ -62,8 +62,8 @@ score 25 / 49 rest to come
 - [x] [CommonPrimeDivisors](https://github.com/senei/codility_test/blob/master/Lesson%2010%20-%20Euclidean%20algorithm/CommonPrimeDivisors.htm)
 
 ##Lesson 11 [Fibonacci numbers](https://codility.com/programmers/lessons/11)
-- [ ] [Ladder]()
-- [ ] [FibFrog]()
+- [x] [Ladder](https://github.com/senei/codility_test/blob/master/Lesson%2011%20-%20Fibonacci%20numbers/Ladder.htm)
+- [x] [FibFrog](https://github.com/senei/codility_test/blob/master/Lesson%2011%20-%20Fibonacci%20numbers/FibFrog.htm)
 
 ##Lesson 12 [Binary search algorithm](https://codility.com/programmers/lessons/12)
 - [ ] [MinMaxDivision]()
