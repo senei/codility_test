@@ -44,7 +44,7 @@ score 25 / 49 rest to come
 ##Lesson 7 [Maximum slice problem](https://codility.com/programmers/lessons/7)
 - [x] [MaxProfit](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxProfit.htm)
 - [x] [MaxSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxSliceSum.htm)
-- [ ] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/)
+- [ ] [MaxDoubleSliceSum](https://github.com/senei/codility_test/blob/master/Lesson%207%20-%20Maximum%20slice%20problem/MaxDoubleSliceSum.htm)
 
 ##Lesson 8 [Prime and composite numbers](https://codility.com/programmers/lessons/8)
 - [x] [MinPerimeterRectangle](https://github.com/senei/codility_test/blob/master/Lesson%208%20-%20Prime%20and%20composite%20numbers/MinPerimeterRectangle.htm)
