@@ -12,9 +12,7 @@
 function solution(A) {
     var N = A.length,
         fib = new Array(N + 4),
-        visit = Array.apply(null, new Array(N)).map(function() {
-        return 0;
-    });
+        visit = Array.apply(null, new Array(N)).map(function() {return 0;});
     fib[0] = 0;
     fib[1] = 1;
     var m = 1;
